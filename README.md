@@ -1,7 +1,6 @@
 # Hi there, I'm Brandon <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="24px" alt="hi">
 
 I am a current PhD student at University of Lausanne in Switzerland research landscape evolution. With a background in applied mathematics and computer science and a passion for photography and visual arts, I strive to find the balance between rigerous computations and stunning visualizations. Feel free to look at some of my latest projects and future goals as a research and software engineer! It is only the beginning :)
----
 
 ### Tools and technologies:
 
@@ -9,12 +8,8 @@ I am a current PhD student at University of Lausanne in Switzerland research lan
 
 ![Black](https://img.shields.io/badge/code%20style-black-black)
 
----
-
 ### Timeline
 xxx
-
----
 
 ### Current Projects/Goals
 xxx
