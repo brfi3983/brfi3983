@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Brandon 👋
 
+Current languages and tools
+xxx
+
+Timeline
+xxx
+
+Current Projects/Goals
+xxx
 <!--
 **brfi3983/brfi3983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
