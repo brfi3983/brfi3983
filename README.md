@@ -8,11 +8,6 @@ I am a current PhD student at University of Lausanne in Switzerland research lan
 
 ![Black](https://img.shields.io/badge/code%20style-black-black)
 
-### Timeline
-xxx
-
-### Current Projects/Goals
-xxx
 <!--
 **brfi3983/brfi3983** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
